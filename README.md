@@ -10,7 +10,7 @@ This package is intended to serve as a resource for those currently under quaran
 * Open Mind
 
 ## Ingredients
-* 1 lb. chicken breast
+* 1 - 1.5 lb. chicken breast
 * 1 packet of taco seasoning
 * 1 container of fresh salsa
 * 1 can black beans
