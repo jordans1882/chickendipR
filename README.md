@@ -1,6 +1,9 @@
 # chickendipR
 
 <!-- badges: start -->
+<img src=https://img.shields.io/github/license/EriqLaplus/chickendipR>
+<img src=https://img.shields.io/github/issues/EriqLaplus/chickendipR>
+<img src=https://img.shields.io/discord/694920570382319698>
 <!-- badges: end -->
 
 This package is intended to serve as a resource for those currently under quarantine who lack sufficiently debilitating chicken dip recipes. The recipe below is intended to serve those who suffer most from the lack of chicken dip recipes. As always, I am here to support those in need however I can.
@@ -18,7 +21,7 @@ This package is intended to serve as a resource for those currently under quaran
 * 8 oz cream cheese
 * 1 cup of cheddar cheese
 
-You may note that the container of fresh salsa has no associated units. The recipe passed down to me didn't specify. For those who have had it from me, I typically get 24 oz cans. Choose the heat level to match your personal preferences. If you're not sure of a preferred heat level, mix and match. When I make this, I typically get one hot and one medium salsa to use in my double batch.
+You may note the container of fresh salsa has no associated units. The recipe passed down to me did not specify. For those who have had it from me, I typically get 24 oz cans. Choose the heat level to match your personal preferences. If you're not sure of a preferred heat level, mix and match. When I make this, I typically get one hot and one medium salsa to use in my double batch.
 
 ## Directions
 
