@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/license/EriqLaplus/chickendipR) ![](https://img.shields.io/github/issues/EriqLaplus/chickendipR) ![](https://img.shields.io/discord/694920570382319698)
 <!-- badges: end -->
 
-This package is intended to serve as a resource for those currently under quarantine who lack sufficiently debilitating chicken dip recipes. The recipe below is intended to serve those who suffer most from the lack of chicken dip recipes. As always, I am here to support those in need however I can.
+This package is intended to serve as a resource for those currently under quarantine who lack chicken dip recipes. The recipe below is intended to serve those who suffer most from the lack of chicken dip recipes. As always, I am here to support those in need however I can.
 
 ## Required Equipment
 * Slow cooker / Crockpot
