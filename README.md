@@ -11,13 +11,13 @@ This package is intended to serve as a resource for those currently under quaran
 * Open Mind
 
 ## Ingredients
-* 1 - 1.5 lb. chicken breast
-* 1 packet of taco seasoning
-* 1 container of fresh salsa
-* 1 can black beans
-* 1 can of corn
-* 8 oz cream cheese
-* 1 cup of cheddar cheese
+* 1 - 1.5 lb. chicken breast (450-675 grams)
+* 1 packet of taco seasoning (6 grams)
+* 1 container of fresh salsa (You are an adult)
+* 1 can black beans (780 grams)
+* 1 can of corn (300 grams)
+* 8 oz cream cheese (230 grams)
+* 1 cup of cheddar cheese (245 grams)
 
 You may note the container of fresh salsa has no associated units. The recipe passed down to me did not specify. For those who have had it from me, I typically get 24 oz cans. Choose the heat level to match your personal preferences. If you're not sure of a preferred heat level, mix and match. When I make this, I typically get one hot and one medium salsa to use in my double batch.
 
