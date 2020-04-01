@@ -32,7 +32,7 @@ First, a preface on slow cooker size. The slow cooker [I use](https://www.amazon
 
 That's it. A few additional personal notes: I typically cut the cream cheese into a few blocks to increase surface area and reduce mixing time. I also typically use shredded sharp cheddar cheese from a bag (one bag is all that is required for a double batch). 
 
-The primary vehicle for consuming chicken dip is tortilla chips. I recommend getting heavily fortified chips (Mission Rounds) as chicken dip is a dense substance. If feeling creative, this can be mixed with rice or eaten with a fork alone -- chicken dip is _very_ versatile.
+The primary vehicle for consuming chicken dip is a tortilla chip. I recommend getting heavily fortified chips (Mission Rounds) as chicken dip is a dense substance. If feeling creative, this can be mixed with rice or eaten with a fork alone -- chicken dip is _very_ versatile.
 
 ## Connect with us
 
